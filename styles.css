@@ -9,3 +9,7 @@ border-bottom: solid 2px rgb(0,0,0,);
 padding: 20px;
 font-size: 32px;
 }
+section {
+background: rgba(151, 0, 0, 0.418);
+
+}
