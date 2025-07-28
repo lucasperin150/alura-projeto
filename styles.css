@@ -1,15 +1,32 @@
 body {
-    color:white ;
-background-color: green;
-margin: 0px;
+    color: white;
+    background: rgb(169, 120, 13);
+    margin: 0px;
+    font-family: "Montserrat", sans-serif;
 }
-header{
- 
-border-bottom: solid 2px rgb(0,0,0,);
-padding: 20px;
-font-size: 32px;
-}
-section {
-background: rgba(151, 0, 0, 0.418);
 
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+
+section {
+    background: rgb(14, 89, 2);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+h1 {
+    font-size: 22px;
+}
+
+p{
+    font-size: 21px;
 }
